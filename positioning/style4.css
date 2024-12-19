@@ -1,0 +1,17 @@
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: bisque;
+}
+
+/* .locate {
+  position: relative;
+  left: 50px;
+  top: -50px;
+} */
+
+.locate {
+  position: absolute;
+  left: 50px;
+  top: 50px;
+}

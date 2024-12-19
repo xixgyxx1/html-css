@@ -1,0 +1,18 @@
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: aquamarine;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.box2 {
+  align-self: center;
+}
+
+.box3 {
+  align-self: flex-end;
+}
